@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository
 <br>
-Author Pranav Kewate
+Author Pranav Kewate(Apna College)
